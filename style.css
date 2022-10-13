@@ -16,13 +16,13 @@ img {
   text-align: center;
 }
 
-#moti {
+#indexP {
   font-size: 20px;
   margin-left: 10%;
   margin-right: 10%;
 }
 
-#moti1 {
+#indexH2 {
   font-size: 30px;
   margin-left: 10%;
   margin-right: 10%;
@@ -34,7 +34,7 @@ img {
   margin: 100px;
 }
 
-.doos {
+.faqBox {
   width: 350px;
   margin: 100px auto;
   background: white;
@@ -42,7 +42,7 @@ img {
 
 }
 
-.doos .hoofd {
+.faqBox .faqHead {
   background: pink;
   padding: 10px;
   color: white;
@@ -83,9 +83,9 @@ td {
   float: left;
 }
 
-#ulpro {
-  text-align: center;
-  list-style: none;
+#myprofileText {
+  text-align: justify;
+ 
 }
 
 .blog {
@@ -107,16 +107,19 @@ hr.rounded {
 }
 
 #fotomp {
-  margin: auto;
-  display: block;
   width: 200px;
   height: 200px;
 }
 
 #figc {
-  text-align: center;
+  text-align: justify;
 }
 
 .nav2 {
   position: relative;
+}
+
+#myprofileFotoCaranval {
+  float: right;
+
 }
